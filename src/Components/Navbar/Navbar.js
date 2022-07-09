@@ -26,7 +26,7 @@ const Navbar = () => {
                     <button className='border-none bg-transparent text-black mr-4  hover:text-indigo-600'>Sign In</button>
                     <button className='px-8 py-3 hover:bg-transparent hover:text-indigo-600'>Sign Up</button>
                 </div>
-                <div className='md:hidden '>
+                <div className='md:hidden mr-4'>
 
                     {nav && <FontAwesomeIcon onClick={handleClick} size="lg" icon={faBars} />}
                     {!nav && <FontAwesomeIcon onClick={handleClick} size="lg" icon={faXmark} />}
