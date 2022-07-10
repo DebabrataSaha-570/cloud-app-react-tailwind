@@ -8,7 +8,7 @@ const AllInOne = () => {
             <div className='max-w-[1240px] mx-auto'>
                 <div>
                     <h2 className='text-5xl font-bold text-center'>All-In-One Platform</h2>
-                    <p className='text-2xl py-8 text-gray-500 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aperiam dolor quidem, sequi numquam nulla optio nostrum maiores facere facilis.</p>
+                    <p className='text-xl py-8 text-gray-500 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aperiam dolor quidem, sequi numquam nulla optio nostrum maiores facere facilis.</p>
                 </div>
 
                 <div className='grid sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4'>

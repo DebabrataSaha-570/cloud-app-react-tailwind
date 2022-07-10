@@ -14,7 +14,7 @@ const Support = () => {
                 <div className='px-4 py-12'>
                     <h2 className='pt-8 text-3xl text-slate-400 uppercase text-center'>Support</h2>
                     <h3 className='text-5xl font-bold py-6 text-center'>Finding the right team</h3>
-                    <p className='py-4 text-3xl text-slate-300'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis quaerat possimus totam adipisci aliquam nisi alias nam obcaecati ipsum repellendus!</p>
+                    <p className='py-4 text-xl text-slate-300'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis quaerat possimus totam adipisci aliquam nisi alias nam obcaecati </p>
                 </div>
 
                 {/* card section */}

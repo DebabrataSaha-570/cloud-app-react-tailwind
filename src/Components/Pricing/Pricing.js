@@ -14,7 +14,7 @@ const Pricing = () => {
                 <div className='text-center py-8 text-slate-300'>
                     <h2 className='text-3xl uppercase'>Pricing</h2>
                     <h3 className='text-5xl font-bold text-white py-8'>The right price for your research</h3>
-                    <p className='text-3xl'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit, velit laborum explicabo reiciendis quo nemo sit quis saepe corporis maxime delectus odit molestiae quod illo soluta provident doloremque natus commodi.</p>
+                    <p className='text-xl'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit, velit laborum explicabo reiciendis quo nemo sit quis saepe corporis maxime delectus odit molestiae quod illo soluta provident doloremque natus commodi.</p>
                 </div>
 
                 {/* card section  */}

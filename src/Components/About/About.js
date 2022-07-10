@@ -6,7 +6,7 @@ const About = () => {
             <div className='max-w-[1240px] mx-auto'>
                 <div className='text-center '>
                     <h2 className='text-5xl font-bold'>Trusted by developers across the world</h2>
-                    <p className='text-2xl py-6 text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae rem consequatur magni nemo autem, assumenda rerum at officia ad adipisci temporibus ullam </p>
+                    <p className='text-xl py-6 text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae rem consequatur magni nemo autem, assumenda rerum at officia ad adipisci temporibus ullam </p>
                 </div>
 
                 <div className='grid md:grid-cols-3 gap-1 px-2 text-center'>

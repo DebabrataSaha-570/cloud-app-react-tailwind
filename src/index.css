@@ -5,7 +5,7 @@
 
 @layer base {
     li {
-        @apply p-4
+        @apply p-4 cursor-pointer;
     }
 
     button {
