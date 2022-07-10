@@ -70,7 +70,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className='flex flex-col max-w-[1240px] m-auto px-2 py-4 justify-between items-center sm:flex-row text-center text-gray-500'>
-                <p>2022 Workflow, LLC. All rights reserved</p>
+                <p>2022 Code Commerce. All rights reserved</p>
                 <div className='flex   text-2xl'>
                     <FontAwesomeIcon className='mr-3' icon={faFacebook} />
                     <FontAwesomeIcon className='mr-3' icon={faTwitter} />

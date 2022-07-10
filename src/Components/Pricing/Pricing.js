@@ -4,7 +4,7 @@ import { faCheck } from '@fortawesome/free-solid-svg-icons'
 
 const Pricing = () => {
     return (
-        <div className='w-full text-white my-24'>
+        <div name="pricing" className='w-full text-white my-24'>
 
             <div className='w-full h-[800px] absolute mix-blend-overlay bg-slate-900 '>
 

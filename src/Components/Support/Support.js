@@ -5,7 +5,7 @@ import { faPhone, faArrowRight } from '@fortawesome/free-solid-svg-icons'
 
 const Support = () => {
     return (
-        <div className='w-full  my-24' >
+        <div name="support" className='w-full  my-24' >
             <div className='w-full h-[700px] bg-gray-900/90 absolute'>
                 <img className='w-full h-full object-cover mix-blend-overlay' src={supportImg} alt="" />
             </div>
