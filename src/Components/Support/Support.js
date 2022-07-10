@@ -5,7 +5,7 @@ import { faPhone, faArrowRight } from '@fortawesome/free-solid-svg-icons'
 
 const Support = () => {
     return (
-        <div className='w-full h-screen my-24' >
+        <div className='w-full  my-24' >
             <div className='w-full h-[700px] bg-gray-900/90 absolute'>
                 <img className='w-full h-full object-cover mix-blend-overlay' src={supportImg} alt="" />
             </div>
@@ -47,7 +47,7 @@ const Support = () => {
                     <div className='bg-white rounded-lg shadow-2xl'>
                         <div className='px-5 py-3'>
                             <FontAwesomeIcon size='lg' icon={faPhone} className="bg-indigo-600 p-4 text-white rounded-lg mt-[-8rem]" />
-                            <h3 className='font-bold text-2xl'>Sales</h3>
+                            <h3 className='font-bold text-2xl'>Media Inquiries</h3>
                             <p className='my-4 text-gray-600 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, quasi?</p>
                         </div>
                         <div className='bg-slate-100 rounded-lg pl-8 py-4'>
